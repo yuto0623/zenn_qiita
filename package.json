@@ -1,0 +1,23 @@
+{
+  "name": "zen_qiita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuto0623/zen_qiita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuto0623/zen_qiita/issues"
+  },
+  "homepage": "https://github.com/yuto0623/zen_qiita#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
