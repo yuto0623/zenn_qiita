@@ -1,14 +1,15 @@
 ---
 title: zennとqiitaをgithubリポジトリで管理テスト投稿
-private: false
 tags:
   - Qiita
   - GitHub
   - Zenn
-updated_at: '2025-01-30T04:31:44.811Z'
-id: null
+private: false
+updated_at: '2025-01-30T13:31:52+09:00'
+id: e09c59f09cc9c8cd04d9
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 ## テスト記事
 zenn-qiita-syncを使用して投稿テストです。
