@@ -1,15 +1,16 @@
 ---
 title: ZennとQiitaの記事の同時管理
-private: false
 tags:
+  - Qiita
   - Zenn
   - ZennCLI
-  - Qiita
   - QiitaCLI
-updated_at: '2025-01-31T00:44:59.750Z'
-id: null
+private: false
+updated_at: '2025-01-31T09:45:06+09:00'
+id: 6a5d2656d54c2f660a54
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 ## はじめに
 私は最近ZennとQiitaの記事を投稿し始めました。
