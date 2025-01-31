@@ -3,7 +3,7 @@ title: "ZennとQiitaの記事の同時管理"
 emoji: "🐷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Zenn,ZennCLI,Qiita,QiitaCLI]
-published: false
+published: true
 ---
 ## はじめに
 私は最近ZennとQiitaの記事を投稿し始めました。
