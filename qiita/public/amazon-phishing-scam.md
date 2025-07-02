@@ -1,14 +1,15 @@
 ---
 title: 【体験談】Amazonを装ったフィッシング詐欺に引っかかりそうになった話
-private: false
 tags:
-  - メール
-  - security
+  - mail
+  - Security
   - 詐欺
-updated_at: '2025-07-02T04:39:09.375Z'
-id: null
+private: false
+updated_at: '2025-07-02T13:39:16+09:00'
+id: c398a606115bbbec5cc6
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
