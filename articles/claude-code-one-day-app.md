@@ -1,9 +1,10 @@
 ---
-title: "Claude Codeで1日でアプリを作ってストア公開"
+title: "Claude Codeで1日でアプリを作ってApp Store公開"
 emoji: "🚀"
 type: "tech"
 topics: [ClaudeCode, ReactNative, Expo, AppStore, 個人開発]
-published: false
+published: true
+publication_name: "aun_phonogram"
 ---
 ## はじめに
 
@@ -14,6 +15,7 @@ published: false
 作ったのは「**感情だけを記録する日記アプリ**」という、文章を一切書かない感情記録アプリです。
 
 https://github.com/yuto0623/wordless-diary
+https://apps.apple.com/jp/app/%E6%84%9F%E6%83%85%E3%81%A0%E3%81%91%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%99%E3%82%8B%E6%97%A5%E8%A8%98%E3%82%A2%E3%83%97%E3%83%AA/id6757698845
 
 ## 作ったアプリ：感情だけを記録する日記アプリ
 
@@ -26,8 +28,11 @@ https://github.com/yuto0623/wordless-diary
 
 シンプルなアプリにしたのは、**ストア公開までの流れを学ぶことが目的**だったからです。機能を絞ることで、申請に必要な作業に集中できました。
 
-<!-- TODO: ここにアプリのスクリーンショットを3-5枚追加 -->
-<!-- 例: ![アプリ画面](/images/wordless-diary-screenshot1.png) -->
+![感情選択画面](/images/claude-code-one-day-app/img1.png)
+*Today画面：6つの感情から今日の気持ちを選ぶだけ*
+
+![振り返り画面](/images/claude-code-one-day-app/img2.png)
+*振り返り画面：カレンダーで感情の推移を確認できる*
 
 ### 技術スタック
 
@@ -73,7 +78,13 @@ npx expo install expo-sqlite expo-haptics
 
 #### アプリの実装
 
-Claude Codeに設計書を渡したら、一発でアプリ全体を実装してくれました。
+Claude Codeに以下のように指示しました。
+
+```
+この設計書を元にReact Nativeで実装して
+```
+
+これだけで、一発でアプリ全体を実装してくれました。
 
 - 感情選択のグリッドUI
 - カレンダー表示
