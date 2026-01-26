@@ -18,6 +18,6 @@
   "homepage": "https://github.com/yuto0623/zen_qiita#readme",
   "description": "",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.4.1"
   }
 }
