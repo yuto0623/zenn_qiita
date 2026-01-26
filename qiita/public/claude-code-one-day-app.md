@@ -1,17 +1,17 @@
 ---
 title: Claude Codeで1日でアプリを作ってApp Store公開
-publication_name: aun_phonogram
-private: false
 tags:
-  - ClaudeCode
-  - ReactNative
-  - Expo
   - AppStore
+  - reactnative
   - 個人開発
-updated_at: '2026-01-26T13:11:34.028Z'
-id: null
+  - expo
+  - ClaudeCode
+private: false
+updated_at: '2026-01-26T22:11:41+09:00'
+id: ba709fd35f1984402c93
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 ## はじめに
 
