@@ -12,7 +12,7 @@ Claude Codeには「スキル」という仕組みがあり、特定のフレー
 
 https://zenn.dev/aun_phonogram/articles/claude-code-one-day-app
 
-結論から言うと、**「この記事を動画にして」と伝えるだけで42秒の紹介動画が完成**しました。
+結論から言うと、**「この記事を動画にして」と伝えるだけで約50秒の紹介動画が完成**しました。
 
 https://youtu.be/NGItbY0dPNE
 
@@ -46,17 +46,24 @@ npx create-video@latest
 
 ## 実際にやったこと
 
-### ブログ記事から動画を生成
+### 手順
 
-「この記事をRemotionのスキルを使って動画にしたい」とClaude Codeに伝えたら、**それだけで動画ができた**。
+1. Remotionプロジェクトを作成
+2. スキルをインストール
+3. 動画化したい記事（[Claude Codeで1日でアプリを作ってApp Store公開](https://zenn.dev/aun_phonogram/articles/claude-code-one-day-app)）のMarkdownファイルをプロジェクト内にコピー
+4. 以下のプロンプトを入力
 
-- 既存のブログ記事（[Claude Codeで1日でアプリを作ってApp Store公開](https://zenn.dev/aun_phonogram/articles/claude-code-one-day-app)）を渡した
-- Claude Codeがスキルの知識を使ってRemotionのコードを自動生成
-- プレビューで確認 → そのまま動画として出力
+```
+この記事をremotionのスキルで動画にして
+```
+
+**これだけで、追加の指示なしに1発で動画が完成した。**
+
+Claude Codeがスキルの知識を使ってRemotionのコードを自動生成し、プレビューで確認してそのまま動画として出力できた。
 
 ## 使用した機能
 
-Claude Codeに生成されたコードについて聞いてみたところ、以下のような構成になっていました。
+生成されたコードを確認したところ、以下のような構成になっていました。
 
 ### コンポーネント構成
 
