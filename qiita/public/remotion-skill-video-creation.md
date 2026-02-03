@@ -1,16 +1,16 @@
 ---
 title: Remotionのスキルを使って動画作成してみた
-publication_name: aun_phonogram
-private: false
 tags:
-  - Remotion
   - React
-  - ClaudeCode
   - 動画作成
-updated_at: '2026-02-03T20:15:24+09:00'
+  - remotion
+  - ClaudeCode
+private: false
+updated_at: '2026-02-03T20:20:11+09:00'
 id: 9b8c2df0b197dfcb2fe6
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
