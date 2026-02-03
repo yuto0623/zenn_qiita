@@ -28,9 +28,15 @@ Remotionは、Reactを使ってプログラマティックに動画を作成で�
 
 ## セットアップ
 
-### Claude Codeにスキルを追加
+### プロジェクト作成
 
-まず、Claude CodeにRemotionのベストプラクティスを学ばせるためにスキルを追加。
+```bash
+# Remotionプロジェクトの作成
+npx create-video@latest
+```
+
+### Claude Codeにスキルを追加
+Claude CodeにRemotionのベストプラクティスを学ばせるためにスキルを追加。
 
 ```bash
 npx skills add remotion-dev/skills
@@ -38,12 +44,6 @@ npx skills add remotion-dev/skills
 
 これで、Claude CodeがRemotionの正しい書き方を把握した状態で開発をサポートしてくれる。
 
-### プロジェクト作成
-
-```bash
-# Remotionプロジェクトの作成
-npx create-video@latest
-```
 
 ## 実際にやったこと
 
