@@ -3,7 +3,8 @@ title: "Remotionのスキルを使って動画作成してみた"
 emoji: "🎬"
 type: "tech"
 topics: [Remotion, React, ClaudeCode, 動画作成]
-published: false
+published: true
+publication_name: "aun_phonogram"
 ---
 
 ## はじめに
@@ -69,14 +70,14 @@ Claude Codeがスキルの知識を使ってRemotionのコードを自動生成�
 
 6つのシーンに分けて構成されています：
 
-| シーン | 内容 | 長さ |
-|---|---|---|
-| TitleScene | オープニング | 5秒 |
-| AppIntroScene | アプリ紹介 | 6秒 |
-| PhaseScene ×4 | 開発の4フェーズ説明 | 各5秒 |
-| ClaudeCodeScene | Claude Codeの活躍場面 | 6秒 |
-| SummaryScene | まとめ | 8秒 |
-| EndingScene | 締めくくり | 5秒 |
+| シーン | 内容 |
+|---|---|
+| TitleScene | オープニング |
+| AppIntroScene | アプリ紹介 |
+| PhaseScene ×4 | 開発の4フェーズ説明 | 
+| ClaudeCodeScene | Claude Codeの活躍場面 |
+| SummaryScene | まとめ |
+| EndingScene | 締めくくり |
 
 ### アニメーション
 
