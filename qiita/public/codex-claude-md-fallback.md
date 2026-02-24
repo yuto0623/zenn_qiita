@@ -1,15 +1,15 @@
 ---
 title: CodexでAGENTS.mdがないときにCLAUDE.mdを読む設定を知った
-publication_name: aun_phonogram
-private: false
 tags:
-  - Codex
-  - ClaudeCode
   - 開発環境
-updated_at: '2026-02-24T03:12:06.751Z'
-id: null
+  - codex
+  - ClaudeCode
+private: false
+updated_at: '2026-02-24T12:12:14+09:00'
+id: a2e1310a4708936563f0
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
