@@ -1,15 +1,15 @@
 ---
 title: Claude Codeのちらつきを消す「NO_FLICKER」モードを常時ONにする方法。
-publication_name: aun_phonogram
-private: false
 tags:
-  - ClaudeCode
-  - ターミナル
+  - Terminal
   - 開発環境
-updated_at: '2026-04-07T01:59:23.131Z'
-id: null
+  - ClaudeCode
+private: false
+updated_at: '2026-04-07T10:59:30+09:00'
+id: 6a8a6516e7caaee176d5
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
