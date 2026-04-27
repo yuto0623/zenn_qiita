@@ -1,16 +1,16 @@
 ---
 title: Next.jsとConvexで作る極限までシンプルなリアルタイムホワイトボード
-publication_name: aun_phonogram
-private: false
 tags:
-  - Convex
-  - Nextjs
   - TypeScript
   - React
-updated_at: '2026-04-27T07:39:36.338Z'
-id: null
+  - Next.js
+  - convex
+private: false
+updated_at: '2026-04-27T16:39:44+09:00'
+id: c855a8abddcf02c7ad1d
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに

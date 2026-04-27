@@ -1,16 +1,16 @@
 ---
 title: Convexの基本機能まとめ  TypeScriptで書けるリアルタイムBaaS
-publication_name: aun_phonogram
-private: false
 tags:
-  - Convex
-  - Nextjs
   - TypeScript
   - BaaS
-updated_at: '2026-04-27T07:39:35.842Z'
-id: null
+  - Next.js
+  - convex
+private: false
+updated_at: '2026-04-27T16:39:44+09:00'
+id: 792f4265ea0b2b3c458e
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
