@@ -3,7 +3,7 @@ title: "Convexの基本機能まとめ  TypeScriptで書けるリアルタイム
 emoji: "🚀"
 type: "tech"
 topics: [Convex, Nextjs, TypeScript, BaaS]
-published: false
+published: true
 publication_name: "aun_phonogram"
 ---
 
@@ -294,3 +294,7 @@ Convexの基本機能をひととおり紹介しました。
 - リアルタイム同期がデフォルトで動く
 
 「Next.jsアプリのバックエンドでやりたいこと」がだいたい1箇所で完結するのがすごく楽でした。リアルタイム機能も、自分で書かなくていいのは大きいです。
+
+次はこのリアルタイム同期を使って、複数ブラウザで同じキャンバスを共有できる[シンプルなホワイトボードアプリ](https://zenn.dev/aun_phonogram/articles/convex-whiteboard)を作ってみます。
+
+https://zenn.dev/aun_phonogram/articles/convex-whiteboard
